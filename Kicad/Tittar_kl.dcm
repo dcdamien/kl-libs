@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 23/05/2011 17:07:38
+EESchema-DOCLIB  Version 2.0  Date: 25/05/2011 02:45:15
 #
 $CMP ANT_SMD
 D SMD-soldered antenna
@@ -56,6 +56,10 @@ $CMP LED_2COLOR
 D Two-color LED, common catode
 $ENDCMP
 #
+$CMP LED_RGB
+D RGB LED, common anode
+$ENDCMP
+#
 $CMP LED_RGB_CA
 D RGB LED, common anode
 $ENDCMP
@@ -89,7 +93,7 @@ $CMP ZENER
 D Zener diode
 $ENDCMP
 #
-$CMP Zener_SOT23
+$CMP ZENER_SOT23
 D Zener diode
 $ENDCMP
 #
