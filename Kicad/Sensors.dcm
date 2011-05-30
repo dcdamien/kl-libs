@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 27/05/2011 22:42:31
+EESchema-DOCLIB  Version 2.0  Date: 30/05/2011 23:15:56
 #
 $CMP AH1888
 D Magnet sensor
@@ -24,7 +24,7 @@ $CMP QT100A
 D Touch sensor, 1 channel
 $ENDCMP
 #
-$CMP TSOP48xx
+$CMP TSOP48XX
 D IR resceiver
 $ENDCMP
 #
