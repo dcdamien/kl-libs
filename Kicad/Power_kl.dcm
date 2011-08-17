@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 25/05/2011 00:32:33
+EESchema-DOCLIB  Version 2.0  Date: 14/08/2011 15:57:22
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -81,6 +81,10 @@ $ENDCMP
 #
 $CMP NCP3066
 D LED switching regulator BUCK and BOOST, SO8
+$ENDCMP
+#
+$CMP NCP5623B
+D RGB LED driver charge-pump i2c
 $ENDCMP
 #
 $CMP PCA9635

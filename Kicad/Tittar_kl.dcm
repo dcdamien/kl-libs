@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 28/05/2011 18:53:54
+EESchema-DOCLIB  Version 2.0  Date: 13/08/2011 11:17:57
 #
 $CMP ANT_SMD
 D SMD-soldered antenna
@@ -87,6 +87,10 @@ $ENDCMP
 #
 $CMP SWITCH
 D Switch
+$ENDCMP
+#
+$CMP Thermistor
+D Thermistor
 $ENDCMP
 #
 $CMP ZENER
