@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 14/08/2011 15:57:22
+EESchema-DOCLIB  Version 2.0  Date: 02/09/2011 12:58:39
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -77,6 +77,10 @@ $ENDCMP
 #
 $CMP MC34063
 D Universal converter (up, down, inverting) up to 1.5A
+$ENDCMP
+#
+$CMP MC34151
+D MOSFET driver
 $ENDCMP
 #
 $CMP NCP3066
