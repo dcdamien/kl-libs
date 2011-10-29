@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 22/05/2011 23:40:05
+EESchema-DOCLIB  Version 2.0  Date: 29/10/2011 15:04:02
+#
+$CMP ADM3485
+D RS485 3v3 VCC protected
+$ENDCMP
 #
 $CMP FT232R
 D USB to RS232 converter
