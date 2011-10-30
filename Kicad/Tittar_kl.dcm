@@ -1,17 +1,17 @@
-EESchema-DOCLIB  Version 2.0  Date: 13/08/2011 11:17:57
+EESchema-DOCLIB  Version 2.0  Date: 30/10/2011 11:18:21
 #
-$CMP ANT_SMD
-D SMD-soldered antenna
-$ENDCMP
-#
-$CMP BAR43A
+$CMP BAxxxA
 D Two diodes, common anode, SOT23
 F D:/MyDocuments/Инструкции/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
 $ENDCMP
 #
-$CMP BAR43C
+$CMP BAxxxC
 D Two diodes, common catode, SOT23
 F D:/MyDocuments/Инструкции/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
+$ENDCMP
+#
+$CMP BAxxxS
+D Two diodes in row
 $ENDCMP
 #
 $CMP BRIDGE
@@ -89,7 +89,11 @@ $CMP SWITCH
 D Switch
 $ENDCMP
 #
-$CMP Thermistor
+$CMP SWITCH_2x
+D Switch 2x
+$ENDCMP
+#
+$CMP THERMISTOR
 D Thermistor
 $ENDCMP
 #
