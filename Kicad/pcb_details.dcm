@@ -1,6 +1,10 @@
-EESchema-DOCLIB  Version 2.0  Date: 14/08/2011 14:47:40
+EESchema-DOCLIB  Version 2.0  Date: 01/11/2011 14:48:36
 #
 $CMP WWP_PAD
+D Sensor pad in shape of WWPass logo
+$ENDCMP
+#
+$CMP WWP_PAD_NOCON
 D Sensor pad in shape of WWPass logo
 $ENDCMP
 #
