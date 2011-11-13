@@ -1,16 +1,16 @@
-EESchema-DOCLIB  Version 2.0  Date: 30/10/2011 11:18:21
+EESchema-DOCLIB  Version 2.0  Date: 13/11/2011 22:29:32
 #
-$CMP BAxxxA
+$CMP BAXXXA
 D Two diodes, common anode, SOT23
 F D:/MyDocuments/Инструкции/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
 $ENDCMP
 #
-$CMP BAxxxC
+$CMP BAXXXC
 D Two diodes, common catode, SOT23
 F D:/MyDocuments/Инструкции/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
 $ENDCMP
 #
-$CMP BAxxxS
+$CMP BAXXXS
 D Two diodes in row
 $ENDCMP
 #
@@ -46,6 +46,14 @@ $ENDCMP
 $CMP DIODE
 D Diode simple
 K DEV DIODE
+$ENDCMP
+#
+$CMP FUSE
+D Protection fuse
+$ENDCMP
+#
+$CMP Fuse0R
+D 0R resistor with solder fuse
 $ENDCMP
 #
 $CMP GERCON
@@ -89,7 +97,7 @@ $CMP SWITCH
 D Switch
 $ENDCMP
 #
-$CMP SWITCH_2x
+$CMP SWITCH_2X
 D Switch 2x
 $ENDCMP
 #

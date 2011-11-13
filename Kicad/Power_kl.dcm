@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 02/09/2011 12:58:39
+EESchema-DOCLIB  Version 2.0  Date: 11/11/2011 22:56:50
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -81,6 +81,10 @@ $ENDCMP
 #
 $CMP MC34151
 D MOSFET driver
+$ENDCMP
+#
+$CMP NCP1400
+D Step-up: Vin=0.2...5.5V, Vout=3.3V, Iout=100mA; SOT23-5
 $ENDCMP
 #
 $CMP NCP3066
