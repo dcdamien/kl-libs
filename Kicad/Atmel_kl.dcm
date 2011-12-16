@@ -1,15 +1,15 @@
-EESchema-DOCLIB  Version 2.0  Date: 12/11/2010 17:37:28
+EESchema-DOCLIB  Version 2.0  Date: 12/15/2011 7:40:06 PM
 #
 $CMP AT90USB1287
-F D:/MyDocuments/Инструкции/AVR docs/AT90USB1287.pdf
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/AVR docs/AT90USB1287.pdf
 $ENDCMP
 #
-$CMP ATmega32U2
-F D:/MyDocuments/Инструкции/AVR docs/AT90USB1287.pdf
+$CMP ATMEGA32U2
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/AVR docs/AT90USB1287.pdf
 $ENDCMP
 #
-$CMP ATmega32U4
-F D:/MyDocuments/Инструкции/AVR docs/AT90USB1287.pdf
+$CMP ATMEGA32U4
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/AVR docs/AT90USB1287.pdf
 $ENDCMP
 #
 $CMP ATTINY26
