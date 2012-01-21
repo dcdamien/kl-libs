@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 16/01/2012 17:01:22
+EESchema-DOCLIB  Version 2.0  Date: 21/01/2012 11:47:32
 #
 $CMP ATMEL_JTAG
 D JTAG conn for ATMEL
@@ -86,6 +86,10 @@ $ENDCMP
 #
 $CMP RJ45
 D RJ-45 connector
+$ENDCMP
+#
+$CMP RJ6
+D RJ-6 (4P4C) connector
 $ENDCMP
 #
 $CMP SD_CONNECTOR

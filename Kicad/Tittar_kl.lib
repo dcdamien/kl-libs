@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 13/11/2011 22:29:32
+EESchema-LIBRARY Version 2.3  Date: 21/01/2012 13:19:30
 #encoding utf-8
 #
 # BAxxxA
@@ -237,8 +237,8 @@ $ENDFPLIST
 DRAW
 P 2 0 1 6  50 50  50 -50 N
 P 3 0 1 0  -50 50  50 0  -50 -50 F
-X A 1 -200 0 150 R 40 40 1 1 P
-X K 2 200 0 150 L 40 40 1 1 P
+X ~ A -200 0 150 R 40 40 1 1 P
+X ~ C 200 0 150 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #

@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 13/11/2011 22:29:32
+EESchema-DOCLIB  Version 2.0  Date: 21/01/2012 13:19:30
 #
 $CMP BAXXXA
 D Two diodes, common anode, SOT23
@@ -45,14 +45,14 @@ $ENDCMP
 #
 $CMP DIODE
 D Diode simple
-K DEV DIODE
+K Diode
 $ENDCMP
 #
 $CMP FUSE
 D Protection fuse
 $ENDCMP
 #
-$CMP Fuse0R
+$CMP FUSE0R
 D 0R resistor with solder fuse
 $ENDCMP
 #
