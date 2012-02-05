@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 31/01/2012 23:12:40
+EESchema-DOCLIB  Version 2.0  Date: 05/02/2012 13:41:41
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -50,6 +50,10 @@ $ENDCMP
 $CMP LP2981
 D SOT23-5 linear regulator
 F D:/MyDocuments/Инструкции/Datasheets/Power/AAT3221IGV-3.3-T1.pdf
+$ENDCMP
+#
+$CMP LT1932
+D LED boost driver: SOT23-6, 1-5Vin, 5...40mA Iout
 $ENDCMP
 #
 $CMP LTC4054

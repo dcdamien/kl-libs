@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 21/01/2012 13:19:30
+EESchema-LIBRARY Version 2.3  Date: 02/02/2012 16:40:44
 #encoding utf-8
 #
 # BAxxxA
@@ -115,8 +115,8 @@ F1 "BUZZER" 300 -100 60 H V C CNN
 DRAW
 S -50 100 50 -100 0 1 0 f
 P 3 0 1 10  -50 150  -50 -150  -50 -150 f
-X A A 0 -250 150 U 50 50 1 1 P
-X C C 0 250 150 D 50 50 1 1 P
+X 1 1 0 -250 150 U 50 50 1 1 P
+X 2 2 0 250 150 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
