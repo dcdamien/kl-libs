@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 21/01/2012 11:47:32
+EESchema-DOCLIB  Version 2.0  Date: 06/02/2012 20:31:25
 #
 $CMP ATMEL_JTAG
 D JTAG conn for ATMEL
@@ -55,6 +55,11 @@ $ENDCMP
 #
 $CMP CONN_6
 D 6-pin connector
+K CONN
+$ENDCMP
+#
+$CMP CONN_6_H
+D 6-pin connector with housing
 K CONN
 $ENDCMP
 #
