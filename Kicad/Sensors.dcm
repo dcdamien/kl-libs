@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 31/05/2011 00:53:56
+EESchema-DOCLIB  Version 2.0  Date: 05/02/2012 21:09:54
 #
 $CMP AH1888
 D Magnet sensor
@@ -10,6 +10,10 @@ $ENDCMP
 #
 $CMP AT42QT101X
 D Touch sensor, 1 channel
+$ENDCMP
+#
+$CMP BALL_SNS
+D Ball vibration sensor
 $ENDCMP
 #
 $CMP IRA700
