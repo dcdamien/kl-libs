@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 03/10/2011 01:47:12
+EESchema-DOCLIB  Version 2.0  Date: 06/04/2012 00:54:05
 #
 $CMP BH1415
 D FM stereo transmitter
@@ -6,6 +6,10 @@ $ENDCMP
 #
 $CMP CC1101
 D Tranceiver 300-915MHz
+$ENDCMP
+#
+$CMP CC1190
+D 868MHz PA(27dBm)+LNA(6dB)
 $ENDCMP
 #
 $CMP CC2500
