@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 06/04/2012 00:54:05
+EESchema-DOCLIB  Version 2.0  Date: 06/04/2012 09:46:33
 #
 $CMP BH1415
 D FM stereo transmitter
@@ -14,6 +14,10 @@ $ENDCMP
 #
 $CMP CC2500
 D 2.4 GHz tranciever
+$ENDCMP
+#
+$CMP EB570
+D GPS receiver
 $ENDCMP
 #
 $CMP HMC482
