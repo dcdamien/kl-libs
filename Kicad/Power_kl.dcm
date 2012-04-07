@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 05/02/2012 20:47:13
+EESchema-DOCLIB  Version 2.0  Date: 08/04/2012 01:41:07
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -65,6 +65,10 @@ D SOT23-5 linear LiIon charger
 F D:/MyDocuments/Инструкции/Datasheets/Power/MAX1555EZK.pdf
 $ENDCMP
 #
+$CMP MAX1920
+D Step-down SOT23-6 2...5.5V in, adjustable output
+$ENDCMP
+#
 $CMP MAX712
 D NiCd & NiMH charger
 K Charger
@@ -97,6 +101,10 @@ $ENDCMP
 #
 $CMP NCP5623B
 D RGB LED driver charge-pump i2c
+$ENDCMP
+#
+$CMP NCP662SQ
+D LDO 2.5uA Iq, 100mA out, 6V in
 $ENDCMP
 #
 $CMP STCS1
