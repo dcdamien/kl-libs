@@ -1,3 +1,7 @@
-EESchema-DOCLIB  Version 2.0  Date: 26/08/2011 01:27:17
+EESchema-DOCLIB  Version 2.0  Date: 21/04/2012 22:01:51
+#
+$CMP STM32F100XX-64
+D STM32F100Rx, LQFP64
+$ENDCMP
 #
 #End Doc Library

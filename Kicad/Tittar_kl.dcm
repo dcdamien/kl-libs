@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 06/04/2012 11:06:20
+EESchema-DOCLIB  Version 2.0  Date: 21/04/2012 20:39:04
 #
 $CMP BAXXXA
 D Two diodes, common anode, SOT23
@@ -41,6 +41,10 @@ $ENDCMP
 $CMP D_SHOTTKY
 D Diode simple
 K DEV DIODE
+$ENDCMP
+#
+$CMP DALC208SC6
+D 4x transient voltage supressors, SOT23-6
 $ENDCMP
 #
 $CMP DIODE

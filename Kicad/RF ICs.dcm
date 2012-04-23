@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/04/2012 14:13:38
+EESchema-DOCLIB  Version 2.0  Date: 23/04/2012 00:34:47
 #
 $CMP BH1415
 D FM stereo transmitter
@@ -32,8 +32,16 @@ $CMP SI4432MODULE
 D RF22-S1 module
 $ENDCMP
 #
+$CMP SIM900
+D SIM900 Simcom GSM module
+$ENDCMP
+#
 $CMP UPG2214
 D RF switch 1-to-2, 0.3dB attenuation, +29dBm power
+$ENDCMP
+#
+$CMP WISMO228
+D GSM module
 $ENDCMP
 #
 #End Doc Library
