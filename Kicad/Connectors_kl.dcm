@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 09/04/2012 00:14:26
+EESchema-DOCLIB  Version 2.0  Date: 04/06/2012 01:30:33
 #
 $CMP ATMEL_JTAG
 D JTAG conn for ATMEL
@@ -6,6 +6,10 @@ $ENDCMP
 #
 $CMP BARREL_SOCKET
 D Power connector socket
+$ENDCMP
+#
+$CMP CON_NOKIA_LCD
+D 10-pin Nokia 1110 LCD connector
 $ENDCMP
 #
 $CMP CONN_1
