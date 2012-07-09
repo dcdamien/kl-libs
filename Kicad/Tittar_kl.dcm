@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 21/04/2012 20:39:04
+EESchema-DOCLIB  Version 2.0  Date: 09/07/2012 18:51:00
 #
 $CMP BAXXXA
 D Two diodes, common anode, SOT23
@@ -78,6 +78,10 @@ $ENDCMP
 #
 $CMP MOTOR
 D Motor in general
+$ENDCMP
+#
+$CMP OPTOCOUPLER_TR
+D Optocoupler with triac
 $ENDCMP
 #
 $CMP PESD1CAN
