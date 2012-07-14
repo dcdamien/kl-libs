@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/07/2012 10:36:25
+EESchema-DOCLIB  Version 2.0  Date: 15/07/2012 01:03:35
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -113,6 +113,10 @@ $ENDCMP
 #
 $CMP STCS1
 D LED driver 1.5A 24V
+$ENDCMP
+#
+$CMP TL431_SO8
+D Programmable precision reference
 $ENDCMP
 #
 $CMP TPS71533

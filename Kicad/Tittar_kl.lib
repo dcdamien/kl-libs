@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 10/07/2012 11:10:31
+EESchema-LIBRARY Version 2.3  Date: 15/07/2012 01:22:35
 #encoding utf-8
 #
 # BAxxxA
@@ -124,8 +124,8 @@ ENDDEF
 #
 DEF C C 0 10 N Y 1 F N
 F0 "C" -100 -100 50 H V L CNN
-F1 "C" 50 -100 50 H V L CNN
-F2 "CAP_0603" 150 0 28 V V C BNN
+F1 "C" -100 100 50 H V L CNN
+F2 "CAP_0603" 100 -150 28 V V C BNN
 $FPLIST
  c*
 $ENDFPLIST
