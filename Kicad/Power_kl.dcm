@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 15/07/2012 01:03:35
+EESchema-DOCLIB  Version 2.0  Date: 15/07/2012 21:32:28
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -45,6 +45,10 @@ $ENDCMP
 #
 $CMP LM3410_LLP
 D LLP6 LED booster, no external FET needed
+$ENDCMP
+#
+$CMP LM4041
+D Programmable precision reference
 $ENDCMP
 #
 $CMP LP2951
