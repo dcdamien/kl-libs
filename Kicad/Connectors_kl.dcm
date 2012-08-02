@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 04/06/2012 01:30:33
+EESchema-DOCLIB  Version 2.0  Date: 02/08/2012 09:05:07
 #
 $CMP ATMEL_JTAG
 D JTAG conn for ATMEL
@@ -6,10 +6,6 @@ $ENDCMP
 #
 $CMP BARREL_SOCKET
 D Power connector socket
-$ENDCMP
-#
-$CMP CON_NOKIA_LCD
-D 10-pin Nokia 1110 LCD connector
 $ENDCMP
 #
 $CMP CONN_1
@@ -57,6 +53,11 @@ D Connector with housing
 K CONN
 $ENDCMP
 #
+$CMP CONN_4x2
+D 4x2 pin connector
+K CONN
+$ENDCMP
+#
 $CMP CONN_5
 D Symbole general de connecteur
 K CONN
@@ -80,6 +81,10 @@ $ENDCMP
 $CMP CONN_8
 D Symbole general de connecteur
 K CONN
+$ENDCMP
+#
+$CMP CONN_NOKIA_LCD
+D 10-pin Nokia 1110 LCD connector
 $ENDCMP
 #
 $CMP DB15
