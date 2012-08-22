@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 15/07/2012 12:11:34
+EESchema-LIBRARY Version 2.3  Date: 02/08/2012 12:59:34
 #encoding utf-8
 #
 # BAxxxA
@@ -379,7 +379,7 @@ F0 "L" -100 -140 40 V V C CNN
 F1 "L" -100 0 40 V V C CNN
 F2 "IND_0402" 60 10 40 V V C CNN
 $FPLIST
- l*
+ IND*
 $ENDFPLIST
 DRAW
 A 0 -99 51 -889 889 0 1 0 N -1 -48 -1 -149
