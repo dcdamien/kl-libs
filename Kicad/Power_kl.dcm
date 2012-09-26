@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 23/09/2012 21:22:10
+EESchema-DOCLIB  Version 2.0  Date: 25/09/2012 19:21:53
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -99,6 +99,10 @@ D Linear, up to +30in, +5Vout, 1A, D2PAK
 F D:/Datasheets/Power/Linear regulators/MC7800-D 30V 1A out5V.pdf
 $ENDCMP
 #
+$CMP MCP73832
+D 1Cell LiPo Charger up to 500mA SOT23-5
+$ENDCMP
+#
 $CMP NCP1400
 D Step-up: Vin=0.2...5.5V, Vout=3.3V, Iout=100mA; SOT23-5
 $ENDCMP
@@ -113,10 +117,6 @@ $ENDCMP
 #
 $CMP NCP662SQ
 D LDO 2.5uA Iq, 100mA out, 6V in
-$ENDCMP
-#
-$CMP PCA9635
-D I2C LED Driver, 16x individual PWM outputs
 $ENDCMP
 #
 $CMP STCS1
