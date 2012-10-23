@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 23/09/2012 13:02:36
+EESchema-DOCLIB  Version 2.0  Date: 23/10/2012 19:22:54
 #
 $CMP STM32F100C4
 D Low Dencity Value Line ARM MCU
@@ -10,6 +10,10 @@ $ENDCMP
 #
 $CMP STM32F100XX-64
 D STM32F100Rx, LQFP64
+$ENDCMP
+#
+$CMP STM32F207Vx-100
+D TQFP100 performance line
 $ENDCMP
 #
 #End Doc Library
