@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 12/08/2010 18:31:44
+EESchema-DOCLIB  Version 2.0  Date: 18/10/2012 09:57:28
 #
 $CMP BCKLT_TIC48
 D Backlight module for Tic48
@@ -10,6 +10,10 @@ $ENDCMP
 #
 $CMP NOKIA1100
 D Nokia 1100 LCD: grafic, 96x65, with backlight
+$ENDCMP
+#
+$CMP NOKIA1661
+D Nokia 1661/2608/2330c/5030: grafic, 160x128 RGB, with backlight
 $ENDCMP
 #
 #End Doc Library
