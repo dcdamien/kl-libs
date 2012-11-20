@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 25/09/2012 19:21:53
+EESchema-DOCLIB  Version 2.0  Date: 13/11/2012 20:13:48
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -113,6 +113,10 @@ $ENDCMP
 #
 $CMP NCP5623B
 D RGB LED driver charge-pump i2c
+$ENDCMP
+#
+$CMP NCP583SQ
+D LDO 1uA Iq, 150mA out, 6.5V in
 $ENDCMP
 #
 $CMP NCP662SQ
