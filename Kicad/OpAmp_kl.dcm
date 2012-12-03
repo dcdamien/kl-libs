@@ -1,21 +1,12 @@
-EESchema-DOCLIB  Version 2.0  Date: 19/10/2009 12:13:48
+EESchema-DOCLIB  Version 2.0  Date: 03/12/2012 18:38:07
 #
-$CMP LM2902N
-D Quad Op amp.
+$CMP Generic_14pin
+D Quad Op amp in 14-pin package
 K AmpliOp
 $ENDCMP
 #
-$CMP LM324
-D Quad Op amp.
-K AmpliOp
-$ENDCMP
-#
-$CMP LM358
-D Dual Op amp
-$ENDCMP
-#
-$CMP LM393
-D Dual comparator
+$CMP Generic_8pin
+D Dual Op amp in 8-pin package
 $ENDCMP
 #
 #End Doc Library
