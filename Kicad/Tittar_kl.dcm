@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 23/09/2012 19:18:13
+EESchema-DOCLIB  Version 2.0  Date: 06/12/2012 00:32:07
 #
 $CMP BAXXXA
 D Two diodes, common anode, SOT23
@@ -20,6 +20,10 @@ $ENDCMP
 #
 $CMP BUTTON
 D General button symbol
+$ENDCMP
+#
+$CMP BUTTON_H
+D Button with housing
 $ENDCMP
 #
 $CMP C
