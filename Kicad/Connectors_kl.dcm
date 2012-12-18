@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 06/12/2012 16:15:04
+EESchema-DOCLIB  Version 2.0  Date: 18/12/2012 11:56:04
 #
 $CMP ATMEL_JTAG
 D JTAG conn for ATMEL
@@ -91,6 +91,10 @@ $ENDCMP
 $CMP CONN_8
 D Symbole general de connecteur
 K CONN
+$ENDCMP
+#
+$CMP CONN_AUDIO_SIMPLE
+D Audio Jack Connector, 3pin
 $ENDCMP
 #
 $CMP CONN_AUDIOJACK
