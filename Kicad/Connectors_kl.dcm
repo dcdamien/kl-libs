@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 12/02/2013 00:26:29
+EESchema-DOCLIB  Version 2.0  Date: 2/26/2013 7:17:05 PM
 #
 $CMP ATMEL_JTAG
 D JTAG conn for ATMEL
@@ -28,7 +28,7 @@ D Symbole general de connecteur
 K CONN
 $ENDCMP
 #
-$CMP CONN_17x2
+$CMP CONN_17X2
 K CONN
 $ENDCMP
 #
