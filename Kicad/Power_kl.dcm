@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 4/10/2013 8:21:37 PM
+EESchema-DOCLIB  Version 2.0  Date: 28/05/2013 13:22:13
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -37,6 +37,10 @@ $ENDCMP
 $CMP LM2703
 D SOT23-5 Step-Up DC/DC Converter
 F D:/MyDocuments/Инструкции/Datasheets/Power/LM2703 2.2 to ~20.pdf
+$ENDCMP
+#
+$CMP LM317_SO8
+D LDO 1.25-37V 100mA SO8
 $ENDCMP
 #
 $CMP LM338
