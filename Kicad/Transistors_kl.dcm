@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 25/01/2013 14:47:01
+EESchema-DOCLIB  Version 2.0  Date: 03/07/2013 00:57:05
 #
 $CMP 2N7002
 D N-channel SOT-23 0.115A 60V
@@ -28,6 +28,10 @@ $CMP NPN
 D Generic NPN
 $ENDCMP
 #
+$CMP NPN_B1C2E3
+D NPN: B-1, C-2, E-3
+$ENDCMP
+#
 $CMP P_CHANNEL_SO8
 D P-channel SO-8
 $ENDCMP
@@ -40,7 +44,7 @@ $CMP PHOTO
 D Phototransistor, isolated base
 $ENDCMP
 #
-$CMP Phototransistor
+$CMP PHOTOTRANSISTOR
 D Phototransistor NPN
 $ENDCMP
 #
