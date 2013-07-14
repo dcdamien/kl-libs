@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  24/03/2013 16:52:42
+PCBNEW-LibModule-V1  14/07/2013 17:32:17
 # encoding utf-8
 Units mm
 $INDEX
@@ -223,7 +223,7 @@ Po 0 0
 $EndPAD
 $EndMODULE PAD_11MM
 $MODULE REF_POINT_1MM
-Po 0 0 0 15 514EF713 00000000 ~~
+Po 0 0 0 15 51E2A85C 00000000 ~~
 Li REF_POINT_1MM
 Sc 0
 AR 
@@ -236,7 +236,7 @@ Dr 0 0 0
 At SMD N 00808000
 Ne 0 ""
 Po 0 0
-.SolderMask 3
+.SolderMask 0.5
 .ZoneConnection 0
 $EndPAD
 $EndMODULE REF_POINT_1MM
