@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 29/05/2013 21:25:28
+EESchema-DOCLIB  Version 2.0  Date: 9/2/2013 7:38:12 PM
 #
 $CMP BAXXXA
 D Two diodes, common anode, SOT23
@@ -28,6 +28,10 @@ $ENDCMP
 #
 $CMP C
 D Capacitor
+$ENDCMP
+#
+$CMP CHOKE_COIL
+D Common mode choke coil
 $ENDCMP
 #
 $CMP CP
