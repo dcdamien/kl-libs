@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 07/08/2013 16:19:53
+EESchema-DOCLIB  Version 2.0  Date: 9/4/2013 4:37:05 PM
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -139,7 +139,7 @@ $CMP TL431_SO8
 D Programmable precision reference
 $ENDCMP
 #
-$CMP TPS202x
+$CMP TPS202X
 D Pwr switch with overcurrent protection
 $ENDCMP
 #
