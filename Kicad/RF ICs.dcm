@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 23/04/2012 00:34:47
+EESchema-DOCLIB  Version 2.0  Date: 22/10/2013 14:36:12
+#
+$CMP BALUN868JOHANSON
+D Balun for CC1101
+$ENDCMP
 #
 $CMP BH1415
 D FM stereo transmitter
