@@ -1,7 +1,11 @@
-EESchema-DOCLIB  Version 2.0  Date: 06/04/2012 10:26:25
+EESchema-DOCLIB  Version 2.0  Date: 25/10/2013 11:35:50
 #
 $CMP ANT_GENERAL
 D General antenna symbol
+$ENDCMP
+#
+$CMP ANT_PCB_MONO_2PIN
+D PCB Antenna with two inputs
 $ENDCMP
 #
 #End Doc Library
