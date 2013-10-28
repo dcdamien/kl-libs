@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 28/10/2013 00:19:34
+EESchema-DOCLIB  Version 2.0  Date: 28/10/2013 13:24:20
 #
 $CMP STM32F050K4_6
 D Entry Level 32-pin QFN
@@ -8,7 +8,7 @@ $CMP STM32F051C8
 D Cortex-M0
 $ENDCMP
 #
-$CMP STM32F05xF4_6
+$CMP STM32F05XF4_6
 D Entry Level TSSOP-20
 $ENDCMP
 #
