@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/4/2013 4:32:40 PM
+EESchema-DOCLIB  Version 2.0  Date: 08/11/2013 12:03:43
 #
 $CMP BAXXXA
 D Two diodes, common anode, SOT23
@@ -119,6 +119,10 @@ $ENDCMP
 #
 $CMP SWITCH_2X
 D Switch 2x
+$ENDCMP
+#
+$CMP SWITCH_H
+D Switch with housing
 $ENDCMP
 #
 $CMP THERMISTOR
