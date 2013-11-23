@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 28/10/2013 13:24:20
+EESchema-DOCLIB  Version 2.0  Date: 23/11/2013 15:58:13
 #
 $CMP STM32F050K4_6
 D Entry Level 32-pin QFN
@@ -26,6 +26,14 @@ $ENDCMP
 #
 $CMP STM32F205RX-64
 D Performance Line, 64 pin
+$ENDCMP
+#
+$CMP STM32L151CxTx
+D LQFP48
+$ENDCMP
+#
+$CMP STM32L151CxUx
+D QFN48
 $ENDCMP
 #
 #End Doc Library
