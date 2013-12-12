@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/20/2013 8:15:15 PM
+EESchema-DOCLIB  Version 2.0  Date: 12/12/2013 12:21:47
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -139,7 +139,7 @@ $CMP TL431_SO8
 D Programmable precision reference
 $ENDCMP
 #
-$CMP TLV700xx
+$CMP TLV700XX
 D SOT23-5 LDO Iq=31uA Iout=200mA Vin=5.5V
 $ENDCMP
 #
