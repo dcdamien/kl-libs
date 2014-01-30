@@ -23,12 +23,14 @@ INSERT PCB FOOTPRINT
 
 8. Open in Pcbnew *.kicad_pcb file of your project.
 
-9. Click "Add Module" button on right control panel in Pcbnew.
+9. Add a Library contained Silk file (Preferences -> Library -> Add).
 
-10. Click at every piont in PCB. You will see window "Load Module". Then "Select by Browser".
+10. Click "Add Module" button on right control panel in Pcbnew.
+
+11. Click at every piont in PCB. You will see window "Load Module". Then "Select by Browser".
 In the left column select your library file created in part 7.
 
-11. Double left click on the second left column and your image will be insert.
+12. Double left click on the second left column and your image will be insert.
 
 Ostranna, RJ. 
 2013
