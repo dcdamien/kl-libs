@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 20/03/2014 22:10:16
+EESchema-LIBRARY Version 2.3  Date: 21/03/2014 23:08:04
 #encoding utf-8
 #
 # BAxxxA
@@ -847,6 +847,7 @@ F2 "~" 0 0 60 H V C CNN
 F3 "~" 0 0 60 H V C CNN
 $FPLIST
  BUTTON*
+ SWITCH*
 $ENDFPLIST
 DRAW
 P 2 0 1 0  -150 0  75 75 N
