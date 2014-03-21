@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 06/12/2013 16:10:11
+EESchema-DOCLIB  Version 2.0  Date: 20/03/2014 22:10:16
 #
 $CMP BAXXXA
 D Two diodes, common anode, SOT23
@@ -81,11 +81,15 @@ D Two-color LED, common catode
 $ENDCMP
 #
 $CMP LED_RGB
-D RGB LED, common anode
+D RGB LED
 $ENDCMP
 #
 $CMP LED_RGB_CA
 D RGB LED, common anode
+$ENDCMP
+#
+$CMP LED_RGB_WS2812B
+D RGB LED with controller
 $ENDCMP
 #
 $CMP MOTOR
