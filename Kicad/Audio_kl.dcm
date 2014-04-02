@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 08/11/2013 12:00:51
+EESchema-DOCLIB  Version 2.0  Date: 14/01/2014 16:17:12
+#
+$CMP TDA2003
+D 10W AUDIO AMPLIFIER
+$ENDCMP
 #
 $CMP TPA6211
 D Mono power amplifier 2.5-5.5V 3W
