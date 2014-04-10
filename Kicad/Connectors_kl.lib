@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 07/08/2013 16:12:36
+EESchema-LIBRARY Version 2.3  Date: 09/04/2014 20:22:20
 #encoding utf-8
 #
 # ATMEL_ISP
@@ -870,7 +870,7 @@ F1 "ST_SWD" 200 300 60 H V C CNN
 F2 "~" 0 0 60 H V C CNN
 F3 "~" 0 0 60 H V C CNN
 $FPLIST
- SIL-4
+ CONN_PLS-4
 $ENDFPLIST
 DRAW
 S 150 250 -200 -250 0 1 0 f
