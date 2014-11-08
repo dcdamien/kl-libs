@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  15/09/2014 21:29:54
+PCBNEW-LibModule-V1  09/10/2014 11:59:07
 # encoding utf-8
 Units mm
 $INDEX
@@ -6482,7 +6482,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE SO8E
 $MODULE SO8HEATSINK
-Po 0 0 0 15 4F93C7D0 00000000 ~~
+Po 0 0 0 15 54364042 00000000 ~~
 Li SO8HEATSINK
 Cd module CMS SOJ 8 pins etroit
 Kw CMS SOJ
@@ -6490,8 +6490,8 @@ Sc 0
 AR 
 Op 0 0 0
 At SMD
-T0 0 -0.889 1.143 1.143 0 0.1524 N V 21 N "SO8HEATSINK"
-T1 0 1.016 0.889 0.889 0 0.1524 N V 21 N "VAL**"
+T0 0 -4.4 0.6 0.6 0 0.15 N V 21 N "SO8HEATSINK"
+T1 0.2 4.7 0.6 0.6 0 0.15 N V 21 N "VAL**"
 DS -2.667 1.778 -2.667 1.905 0.127 21
 DS -2.667 1.905 2.667 1.905 0.127 21
 DS 2.667 -1.905 -2.667 -1.905 0.127 21
@@ -6557,11 +6557,109 @@ Ne 0 ""
 Po 1.905 2.794
 $EndPAD
 $PAD
-Sh "CASE" R 6.4008 3.40106 0 0 0
-Dr 0 0 0
-At SMD N 00888000
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
 Ne 0 ""
 Po 0 0
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 0 -1.1
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 0 1.1
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 1.1 0
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 2.2 0
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 1.1 -1.1
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 2.2 -1.1
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 2.2 1.1
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 1.1 1.1
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po -2.2 -1.1
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po -1.1 -1.1
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po -2.2 0
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po -1.1 0
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po -2.2 1.1
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po -1.1 1.1
 $EndPAD
 $SHAPE3D
 Na "smd/cms_so8.wrl"

@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 01/05/2014 23:52:55
+EESchema-DOCLIB  Version 2.0  Date: 03/10/2014 22:30:03
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
@@ -32,6 +32,10 @@ $ENDCMP
 $CMP LD1117
 D SOT223 linear regulator
 F D:/Мои документы/Инструкции/datasheets/Power/LD1117S33.pdf
+$ENDCMP
+#
+$CMP LED2001
+D LED driver: 3...18V, 4A
 $ENDCMP
 #
 $CMP LM2703
