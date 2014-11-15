@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  09/10/2014 11:59:07
+PCBNEW-LibModule-V1  15/11/2014 11:03:37
 # encoding utf-8
 Units mm
 $INDEX
@@ -6,6 +6,7 @@ $INDEX
 6SMM
 8S2
 DFN1443
+DFN8
 DIL6
 DRB8
 HTSSOP28
@@ -513,6 +514,133 @@ Ne 0 ""
 Po -1.34874 1.50114
 $EndPAD
 $EndMODULE DFN1443
+$MODULE DFN8
+Po 0 0 0 15 546708B0 00000000 ~~
+Li DFN8
+Sc 0
+AR 
+Op 0 0 0
+T0 -2.85 0 0.6 0.6 900 0.15 N V 21 N "DFN8"
+T1 -3.75 0 0.6 0.6 900 0.15 N V 21 N "VAL**"
+DS -2.65 1.95 -2.35 1.6 0.2 21
+DS -2.35 1.6 -2.35 2.6 0.2 21
+DS -2 -2 2 -2 0.2 21
+DS 2 -2 2 2 0.2 21
+DS 2 2 -2 2 0.2 21
+DS -2 2 -2 -2 0.2 21
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po -0.55 -0.55
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 0.55 -0.55
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po -0.55 0.55
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 0.55 0.55
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po -1.65 -0.55
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po -1.65 0.55
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 1.65 -0.55
+$EndPAD
+$PAD
+Sh "PAD" R 1.1 1.1 0 0 0
+Dr 0.5 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 1.65 0.55
+$EndPAD
+$PAD
+Sh "1" R 0.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 2.1
+$EndPAD
+$PAD
+Sh "2" O 0.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 2.1
+$EndPAD
+$PAD
+Sh "3" O 0.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 2.1
+$EndPAD
+$PAD
+Sh "4" O 0.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 2.1
+$EndPAD
+$PAD
+Sh "5" O 0.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 -2.1
+$EndPAD
+$PAD
+Sh "6" O 0.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 -2.1
+$EndPAD
+$PAD
+Sh "7" O 0.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 -2.1
+$EndPAD
+$PAD
+Sh "8" O 0.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 -2.1
+$EndPAD
+$EndMODULE DFN8
 $MODULE DIL6
 Po 0 0 0 15 4FFBD467 00000000 ~~
 Li DIL6
